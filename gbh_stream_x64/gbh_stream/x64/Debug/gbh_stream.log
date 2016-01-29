@@ -1,0 +1,350 @@
+﻿Build started 9/12/2014 6:55:23 PM.
+Project "C:\Users\subarna\Documents\subarna\UCSD_docs\Codes\StreamGBH+\motion_gbh_stream_orig\gbh_stream_x64\gbh_stream\gbh_stream.vcxproj" on node 2 (build target(s)).
+InitializeBuildStatus:
+  Creating "x64\Debug\gbh_stream.unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\CL.exe /c /I..\optical_flow /Zi /nologo /W3 /WX- /Od /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc100.pdb" /Gd /TP /errorReport:prompt ..\..\gbh_stream.cpp
+  gbh_stream.cpp
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\filter.h(95): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\optical_flow\Stochastic.h(14): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\optical_flow\Stochastic.h(443): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\disjoint-set.h(270): warning C4244: '=' : conversion from 'float' to 'uchar', possible loss of data
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\disjoint-set.h(272): warning C4244: '=' : conversion from 'float' to 'uchar', possible loss of data
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\disjoint-set.h(274): warning C4244: '=' : conversion from 'float' to 'uchar', possible loss of data
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\disjoint-set.h(322): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\disjoint-set.h(323): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\disjoint-set.h(324): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\disjoint-set.h(327): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\disjoint-set.h(329): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\disjoint-set.h(332): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\disjoint-set.h(334): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\disjoint-set.h(337): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\disjoint-set.h(339): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\disjoint-set.h(362): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\disjoint-set.h(364): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\disjoint-set.h(366): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\disjoint-set.h(368): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\disjoint-set.h(370): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\disjoint-set.h(372): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\edges.h(95): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\segment-image.h(152): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\segment-image.h(153): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\segment-image.h(154): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\segment-image.h(290): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\segment-image.h(453): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\segment-image.h(514): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\segment-image.h(685): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\segment-image.h(742): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\segment-image.h(814): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\segment-image.h(815): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\segment-image.h(816): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\segment-image.h(827): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\segment-image.h(828): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\segment-image.h(862): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\segment-image.h(863): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\segment-image.h(864): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\segment-image.h(879): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\segment-image.h(880): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\segment-image.h(1020): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\segment-image.h(1021): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\segment-image.h(1022): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\optical_flow\NoiseModel.h(6): warning C4005: 'PI' : macro redefinition
+          c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\optical_flow\Stochastic.h(19) : see previous definition of 'PI'
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\optical_flow\GaussianPyramid.h(68): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\optical_flow\GaussianPyramid.h(74): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\optical_flow\GaussianPyramid.h(82): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\optical_flow\GaussianPyramid.h(87): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\optical_flow\GaussianPyramid.h(105): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\optical_flow\GaussianPyramid.h(113): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\optical_flow\GaussianPyramid.h(118): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\optical_flow\OpticalFlow.h(1307): warning C4244: '=' : conversion from 'const double' to 'unsigned short', possible loss of data
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\optical_flow\OpticalFlow.h(1308): warning C4244: '=' : conversion from 'const double' to 'unsigned short', possible loss of data
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\optical_flow\OpticalFlow.h(1319): warning C4244: '=' : conversion from 'const double' to 'unsigned short', possible loss of data
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\optical_flow\OpticalFlow.h(1320): warning C4244: '=' : conversion from 'const double' to 'unsigned short', possible loss of data
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\optical_flow\OpticalFlow.h(1337): warning C4244: '=' : conversion from 'const double' to 'unsigned char', possible loss of data
+..\..\gbh_stream.cpp(142): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+..\..\gbh_stream.cpp(145): warning C4996: 'mkdir': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _mkdir. See online help for details.
+          c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\direct.h(124) : see declaration of 'mkdir'
+..\..\gbh_stream.cpp(150): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+..\..\gbh_stream.cpp(192): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+..\..\gbh_stream.cpp(380): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+..\..\gbh_stream.cpp(562): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+..\..\gbh_stream.cpp(730): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+..\..\gbh_stream.cpp(733): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\histogram.h(54): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+          c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\histogram.h(48) : while compiling class template member function 'Histogram<TYPE>::Histogram(int,double,double)'
+          with
+          [
+              TYPE=float
+          ]
+          c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\disjoint-set.h(228) : see reference to class template instantiation 'Histogram<TYPE>' being compiled
+          with
+          [
+              TYPE=float
+          ]
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\histogram.h(55): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\histogram.h(57): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\histogram.h(58): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\histogram.h(385): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+          c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\histogram.h(383) : while compiling class template member function 'void Histogram<TYPE>::mergeHistogram(Histogram<TYPE> &)'
+          with
+          [
+              TYPE=float
+          ]
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\histogram.h(100): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+          c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\histogram.h(83) : while compiling class template member function 'void Histogram<TYPE>::addWeightedSample(TYPE,double)'
+          with
+          [
+              TYPE=float
+          ]
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\histogram.h(102): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\optical_flow/Image.h(713): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+          c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\optical_flow/Image.h(707) : while compiling class template member function 'bool Image<T>::imresize(double)'
+          with
+          [
+              T=double
+          ]
+          c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\segment-image.h(137) : see reference to class template instantiation 'Image<T>' being compiled
+          with
+          [
+              T=double
+          ]
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\optical_flow/Image.h(714): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\optical_flow/Image.h(804): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+          c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\optical_flow/Image.h(802) : while compiling class template member function 'bool Image<T>::saveImage(std::ofstream &) const'
+          with
+          [
+              T=double
+          ]
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\optical_flow/Image.h(844): warning C4996: 'strcmpi': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strcmpi. See online help for details.
+          c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(245) : see declaration of 'strcmpi'
+          c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\optical_flow/Image.h(830) : while compiling class template member function 'bool Image<T>::loadImage(std::ifstream &)'
+          with
+          [
+              T=double
+          ]
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\optical_flow/Image.h(845): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\optical_flow/Image.h(846): warning C4996: 'strcmpi': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strcmpi. See online help for details.
+          c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(245) : see declaration of 'strcmpi'
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\optical_flow/Image.h(847): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\optical_flow/Image.h(848): warning C4996: 'strcmpi': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strcmpi. See online help for details.
+          c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(245) : see declaration of 'strcmpi'
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\optical_flow/Image.h(732): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+          c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\optical_flow\GaussianPyramid.h(83) : see reference to function template instantiation 'void Image<T>::imresize<double>(Image<T> &,double) const' being compiled
+          with
+          [
+              T=double
+          ]
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\optical_flow/Image.h(733): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\optical_flow/Image.h(713): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+          c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\optical_flow/Image.h(707) : while compiling class template member function 'bool Image<T>::imresize(double)'
+          with
+          [
+              T=unsigned short
+          ]
+          c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\optical_flow\OpticalFlow.h(1273) : see reference to class template instantiation 'Image<T>' being compiled
+          with
+          [
+              T=unsigned short
+          ]
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\optical_flow/Image.h(714): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\optical_flow/Image.h(804): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+          c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\optical_flow/Image.h(802) : while compiling class template member function 'bool Image<T>::saveImage(std::ofstream &) const'
+          with
+          [
+              T=unsigned short
+          ]
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\optical_flow/Image.h(844): warning C4996: 'strcmpi': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strcmpi. See online help for details.
+          c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(245) : see declaration of 'strcmpi'
+          c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\optical_flow/Image.h(830) : while compiling class template member function 'bool Image<T>::loadImage(std::ifstream &)'
+          with
+          [
+              T=unsigned short
+          ]
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\optical_flow/Image.h(845): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\optical_flow/Image.h(846): warning C4996: 'strcmpi': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strcmpi. See online help for details.
+          c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(245) : see declaration of 'strcmpi'
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\optical_flow/Image.h(847): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\optical_flow/Image.h(848): warning C4996: 'strcmpi': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strcmpi. See online help for details.
+          c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(245) : see declaration of 'strcmpi'
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\optical_flow/Image.h(713): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+          c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\optical_flow/Image.h(707) : while compiling class template member function 'bool Image<T>::imresize(double)'
+          with
+          [
+              T=unsigned char
+          ]
+          c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\optical_flow\OpticalFlow.h(1332) : see reference to class template instantiation 'Image<T>' being compiled
+          with
+          [
+              T=unsigned char
+          ]
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\optical_flow/Image.h(714): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\optical_flow/Image.h(804): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+          c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\optical_flow/Image.h(802) : while compiling class template member function 'bool Image<T>::saveImage(std::ofstream &) const'
+          with
+          [
+              T=unsigned char
+          ]
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\optical_flow/Image.h(844): warning C4996: 'strcmpi': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strcmpi. See online help for details.
+          c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(245) : see declaration of 'strcmpi'
+          c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\optical_flow/Image.h(830) : while compiling class template member function 'bool Image<T>::loadImage(std::ifstream &)'
+          with
+          [
+              T=unsigned char
+          ]
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\optical_flow/Image.h(845): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\optical_flow/Image.h(846): warning C4996: 'strcmpi': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strcmpi. See online help for details.
+          c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(245) : see declaration of 'strcmpi'
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\optical_flow/Image.h(847): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\optical_flow/Image.h(848): warning C4996: 'strcmpi': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strcmpi. See online help for details.
+          c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(245) : see declaration of 'strcmpi'
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\optical_flow\ImageProcessing.h(205): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+          c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\optical_flow/Image.h(717) : see reference to function template instantiation 'void ImageProcessing::ResizeImage<T,T>(const T1 *,T2 *,int,int,int,double)' being compiled
+          with
+          [
+              T=double,
+              T1=double,
+              T2=double
+          ]
+          c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\optical_flow/Image.h(707) : while compiling class template member function 'bool Image<T>::imresize(double)'
+          with
+          [
+              T=double
+          ]
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\optical_flow\ImageProcessing.h(206): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\optical_flow\ImageProcessing.h(341): warning C4101: 'offset' : unreferenced local variable
+          c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\optical_flow/Image.h(1318) : see reference to function template instantiation 'void ImageProcessing::vfiltering<T1,T>(const T1 *,T2 *,int,int,int,const double *,int)' being compiled
+          with
+          [
+              T1=double,
+              T=double,
+              T2=double
+          ]
+          c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\optical_flow\OpticalFlow.h(180) : see reference to function template instantiation 'void Image<T>::imfilter_hv<double>(Image<T> &,const double *,int,const double *,int) const' being compiled
+          with
+          [
+              T=double
+          ]
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\optical_flow\ImageProcessing.h(130): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+          c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\optical_flow\ImageProcessing.h(485) : see reference to function template instantiation 'void ImageProcessing::BilinearInterpolate<T1,T1>(const T1 *,int,int,int,double,double,T2 *)' being compiled
+          with
+          [
+              T1=double,
+              T2=double
+          ]
+          c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\optical_flow\OpticalFlow.h(249) : see reference to function template instantiation 'void ImageProcessing::warpImage<T,T>(T1 *,const T1 *,const T1 *,const T2 *,const T2 *,int,int,int)' being compiled
+          with
+          [
+              T=double,
+              T1=double,
+              T2=double
+          ]
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\optical_flow\ImageProcessing.h(131): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\optical_flow/Image.h(2530): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+          c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\optical_flow/Image.h(2469) : see reference to function template instantiation 'void Image<T>::warpImageBicubicRef<double,double>(const Image<T> &,Image<T> &,const Image<T> &,const Image<T> &,const Image<T> &,const Image<T> &,const Image<T> &) const' being compiled
+          with
+          [
+              T=double
+          ]
+          c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\optical_flow\OpticalFlow.h(565) : see reference to function template instantiation 'void Image<T>::warpImageBicubicRef<double>(const Image<T> &,Image<T> &,const Image<T> &,const Image<T> &) const' being compiled
+          with
+          [
+              T=double
+          ]
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\optical_flow/Image.h(2531): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\optical_flow\ImageProcessing.h(205): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+          c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\optical_flow/Image.h(717) : see reference to function template instantiation 'void ImageProcessing::ResizeImage<T,T>(const T1 *,T2 *,int,int,int,double)' being compiled
+          with
+          [
+              T=unsigned short,
+              T1=unsigned short,
+              T2=unsigned short
+          ]
+          c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\optical_flow/Image.h(707) : while compiling class template member function 'bool Image<T>::imresize(double)'
+          with
+          [
+              T=unsigned short
+          ]
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\optical_flow\ImageProcessing.h(206): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\optical_flow\ImageProcessing.h(205): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+          c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\optical_flow/Image.h(717) : see reference to function template instantiation 'void ImageProcessing::ResizeImage<T,T>(const T1 *,T2 *,int,int,int,double)' being compiled
+          with
+          [
+              T=unsigned char,
+              T1=unsigned char,
+              T2=unsigned char
+          ]
+          c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\optical_flow/Image.h(707) : while compiling class template member function 'bool Image<T>::imresize(double)'
+          with
+          [
+              T=unsigned char
+          ]
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\optical_flow\ImageProcessing.h(206): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\optical_flow\ImageProcessing.h(130): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+          c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\optical_flow\ImageProcessing.h(218) : see reference to function template instantiation 'void ImageProcessing::BilinearInterpolate<T1,T2>(const T1 *,int,int,int,double,double,T2 *)' being compiled
+          with
+          [
+              T1=unsigned short,
+              T2=unsigned short
+          ]
+          c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\optical_flow/Image.h(717) : see reference to function template instantiation 'void ImageProcessing::ResizeImage<T,T>(const T1 *,T2 *,int,int,int,double)' being compiled
+          with
+          [
+              T=unsigned short,
+              T1=unsigned short,
+              T2=unsigned short
+          ]
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\optical_flow\ImageProcessing.h(131): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\optical_flow\ImageProcessing.h(144): warning C4244: '+=' : conversion from 'double' to 'unsigned short', possible loss of data
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\optical_flow\ImageProcessing.h(130): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+          c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\optical_flow\ImageProcessing.h(218) : see reference to function template instantiation 'void ImageProcessing::BilinearInterpolate<T1,T2>(const T1 *,int,int,int,double,double,T2 *)' being compiled
+          with
+          [
+              T1=unsigned char,
+              T2=unsigned char
+          ]
+          c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\optical_flow/Image.h(717) : see reference to function template instantiation 'void ImageProcessing::ResizeImage<T,T>(const T1 *,T2 *,int,int,int,double)' being compiled
+          with
+          [
+              T=unsigned char,
+              T1=unsigned char,
+              T2=unsigned char
+          ]
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\optical_flow\ImageProcessing.h(131): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+c:\users\subarna\documents\subarna\ucsd_docs\codes\streamgbh+\motion_gbh_stream_orig\optical_flow\ImageProcessing.h(144): warning C4244: '+=' : conversion from 'double' to 'unsigned char', possible loss of data
+ManifestResourceCompile:
+  All outputs are up-to-date.
+Link:
+  c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\subarna\Documents\subarna\UCSD_docs\Codes\StreamGBH+\motion_gbh_stream_orig\gbh_stream_x64\x64\Debug\gbh_stream.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"x64\Debug\gbh_stream.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\subarna\Documents\subarna\UCSD_docs\Codes\StreamGBH+\motion_gbh_stream_orig\gbh_stream_x64\x64\Debug\gbh_stream.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\subarna\Documents\subarna\UCSD_docs\Codes\StreamGBH+\motion_gbh_stream_orig\gbh_stream_x64\x64\Debug\gbh_stream.lib" /MACHINE:X64 x64\Debug\gbh_stream.exe.embed.manifest.res
+  x64\Debug\gbh_stream.obj
+  gbh_stream.vcxproj -> C:\Users\subarna\Documents\subarna\UCSD_docs\Codes\StreamGBH+\motion_gbh_stream_orig\gbh_stream_x64\x64\Debug\gbh_stream.exe
+Manifest:
+  C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"x64\Debug\gbh_stream.exe.embed.manifest" /manifest x64\Debug\gbh_stream.exe.intermediate.manifest
+  All outputs are up-to-date.
+LinkEmbedManifest:
+  All outputs are up-to-date.
+  gbh_stream.vcxproj -> C:\Users\subarna\Documents\subarna\UCSD_docs\Codes\StreamGBH+\motion_gbh_stream_orig\gbh_stream_x64\x64\Debug\gbh_stream.exe
+FinalizeBuildStatus:
+  Deleting file "x64\Debug\gbh_stream.unsuccessfulbuild".
+  Touching "x64\Debug\gbh_stream.lastbuildstate".
+Done Building Project "C:\Users\subarna\Documents\subarna\UCSD_docs\Codes\StreamGBH+\motion_gbh_stream_orig\gbh_stream_x64\gbh_stream\gbh_stream.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.36
